@@ -1,4 +1,4 @@
-# funding_data_project
+# Investment Data Project
 Project to visualise, analyse and predict the amount raised in funding rounds of companies around the world. 
 
 predictor = 'raised_amount_usd'
@@ -8,7 +8,7 @@ features include funding round type, continent, date founded, date funded, statu
 
 The data files required for the project are found in the main directory and are called:
 - companies.txt
-- investments.csv
+- investment_rounds.csv
 - mapping.csv
 
 ## Running the Code
