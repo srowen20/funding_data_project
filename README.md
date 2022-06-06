@@ -2,6 +2,7 @@
 Project to visualise, analyse and predict the amount raised in funding rounds of companies around the world. 
 
 predictor = 'raised_amount_usd'
+
 features include funding round type, continent, date founded, date funded, status of company and sector.
 
 ## File and Folder Locations
