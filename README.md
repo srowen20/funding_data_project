@@ -5,6 +5,8 @@ predictor = 'raised_amount_usd'
 
 features include funding round type, continent, date founded, date funded, status of company and sector.
 
+The original code has not been cut down, to better illustrate the though process of each stage.
+
 ## File and Folder Locations
 
 The data files required for the project are found in the main directory and are called:
